@@ -8,6 +8,7 @@ pulled me even more strongly towards this way of working.
 
 I aim to facilitate knowledge diffusion and to contribute to the collaborative efforts 
 needed to make this diffusion happen, including: archival processing, cataloging, data analysis, digitization, and metadata management. 
+
 I edit Wikipedia articles in my spare time.
 
 ## Projects
