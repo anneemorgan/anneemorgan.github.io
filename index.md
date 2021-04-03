@@ -7,23 +7,31 @@ pulled me even more strongly towards this way of working. I aim to facilitate kn
 needed to make this diffusion happen, including: archival processing, cataloging, data analysis, digitization, and metadata management. 
 I edit Wikipedia articles in my spare time.
 
-## Portfolio
+## Projects
 
 ---
 
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
+Developed practical recommendations for Texas Digital Library Repositories undertaking a Collections as Data project.
+
 ---
 
 ### Processing the Wright Chalfant Morrow Papers
+
+Processed Wright Chalfant Morrow's personal papers with a partner at the Texas State Library & Archives Commission.
+
+[Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
 
 ---
 
 ### Documenting Records Management at the Institute for Geophysics
 
+Digitized and archived personnel records at the University of Texas Institute for Geophysics; created workflows for management of personnel records in Box. 
+
 ---
 
-### Writing
+## Writing
 
 Morgan, A. (2019). [The Philadelphia riots of 1844: Republican Catholicism and Irish Catholic apologetics.](https://www.jstor.org/stable/10.5325/pennhistory.86.1.0086?seq=1) *Pennsylvania History: A Journal of Mid-Atlantic Studies, 86*(1), 86-102. doi:10.5325/pennhistory.86.1.0086
 
