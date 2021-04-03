@@ -11,28 +11,22 @@ I edit Wikipedia articles in my spare time.
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
 ---
 
-### Category Name 2
+### Processing the Wright Chalfant Morrow Papers
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### Documenting Records Management at the Institute for Geophysics
+
+---
+
+### Writing
+
+- Morgan, A. (2019). [The Philadelphia riots of 1844: Republican Catholicism and Irish Catholic apologetics.](https://www.jstor.org/stable/10.5325/pennhistory.86.1.0086?seq=1) *Pennsylvania History: A Journal of Mid-Atlantic Studies, 86*(1), 86-102. doi:10.5325/pennhistory.86.1.0086
+- Morgan, A. (2019, August 14). [Uncurrent events: The Pujo Committee.](https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/) *Inside FRASER Blog.* https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/
 
 ---
 
