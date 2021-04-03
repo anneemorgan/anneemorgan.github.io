@@ -1,3 +1,12 @@
+## About me
+
+My undergraduate education, at Truman State University, immersed me in historical research. 
+I realized that research is like detective work. Each new lead builds on the accumulated knowledge that came before it.
+My graduate education in the Information Studies program at the University of Texas at Austin, in addition to various positions in libraries and archives, 
+pulled me even more strongly towards this way of working. I aim to facilitate knowledge diffusion and to contribute to the collaborative efforts 
+needed to make this diffusion happen, including: digitization, cataloging, metadata management, and archiving. 
+I edit Wikipedia articles in my spare time.
+
 ## Portfolio
 
 ---
