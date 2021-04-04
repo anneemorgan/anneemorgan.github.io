@@ -14,7 +14,7 @@ I edit Wikipedia articles in my spare time.
 
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
-Developed practical recommendations for Texas Digital Library Repositories undertaking a Collections as Data project.
+Developed practical recommendations for Texas Digital Library members undertaking a Collections as Data project.
 
 ---
 
