@@ -1,13 +1,10 @@
 ## About me
 
-My undergraduate education at Truman State University immersed me in historical research. 
-I realized that **research is like detective work**. Each new lead builds on the accumulated knowledge that came before it.
+**Research is like detective work.** Each new lead builds on the accumulated knowledge that came before it. Librarians, archivists, and other information workers play a vital role in this process of search and discovery--curating and preserving the "evidence" and providing guidance along the way.
 
-My graduate education in the Information Studies program at the University of Texas at Austin, in addition to various positions in libraries and archives, 
-pulled me even more strongly towards this way of working. 
+My undergraduate education at Truman State University immersed me in historical research. My graduate education in the Information Studies program at the University of Texas at Austin, in addition to various positions in libraries and archives, pulled me towards supporting research. 
 
-I aim to facilitate knowledge diffusion and to contribute to the collaborative efforts 
-needed to make this diffusion happen, including: archival processing, cataloging, data analysis, digitization, and metadata management. 
+As an information worker, I aim to facilitate scholarship and learning. Accordingly, I've gained experience with archival processing, cataloging, data analysis, digitization, and metadata management. 
 
 I edit Wikipedia articles in my spare time.
 
