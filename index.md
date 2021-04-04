@@ -1,6 +1,6 @@
 ## About me
 
-**Research is like detective work.** Each new lead builds on the accumulated knowledge that came before it. Librarians, archivists, and other information workers play a vital role in this process of search and discovery--curating and preserving the "evidence" and providing guidance along the way.
+**Research is like detective work.** Each new lead builds on the accumulated knowledge that came before it. Librarians, archivists, and other information workers play a vital role in this process of search and discovery.
 
 My undergraduate education at Truman State University immersed me in historical research. My graduate education in the Information Studies program at the University of Texas at Austin, in addition to various positions in libraries and archives, pulled me towards supporting research. 
 
