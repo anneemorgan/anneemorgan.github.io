@@ -22,6 +22,7 @@ I edit Wikipedia articles in my spare time.
 ### Processing the Wright Chalfant Morrow Papers
 
 - Processed Wright Chalfant Morrow's personal papers with a partner at the Texas State Library & Archives Commission.
+- Wrote finding aid for the Morrow papers and marked it up in XML
 
 [Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
 
