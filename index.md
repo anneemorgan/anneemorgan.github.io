@@ -20,7 +20,7 @@ I edit Wikipedia articles in my spare time.
 ### Processing the Wright Chalfant Morrow Papers
 
 - Processed Wright Chalfant Morrow's personal papers with a partner at the Texas State Library & Archives Commission.
-- Wrote finding aid for the Morrow papers and marked it up in XML
+- Wrote finding aid for the Morrow papers and marked it up in XML.
 
 [Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
 
@@ -41,8 +41,9 @@ Morgan, A. (2019, August 14). [Uncurrent events: The Pujo Committee.](https://fr
 
 ---
 
+## Conference Presentations
 
-
+Morgan, A. (2019). Modernizing migrants: Truman’s Commission on Migratory Labor and an ‘American standard of living.’ Missouri Conference on History, Kansas City, MO, United States.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
