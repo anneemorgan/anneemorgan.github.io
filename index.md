@@ -8,6 +8,11 @@ I edit Wikipedia articles in my spare time.
 
 ## Projects
 
+### Documenting Records Management at the Institute for Geophysics
+
+- Digitized and archived personnel records at the University of Texas Institute for Geophysics.
+- Created workflows for management of personnel records in Box.
+
 ---
 
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
@@ -23,13 +28,6 @@ I edit Wikipedia articles in my spare time.
 - Wrote finding aid for the Morrow papers and marked it up in XML.
 
 [Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
-
----
-
-### Documenting Records Management at the Institute for Geophysics
-
-- Digitized and archived personnel records at the University of Texas Institute for Geophysics.
-- Created workflows for management of personnel records in Box.
 
 ---
 
