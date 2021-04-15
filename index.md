@@ -13,14 +13,10 @@ I edit Wikipedia articles in my spare time.
 - Digitized and archived personnel records at the University of Texas Institute for Geophysics.
 - Created workflows for management of personnel records in Box.
 
----
-
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
 - In collaboration with team members, developed practical recommendations for Texas Digital Library members undertaking a Collections as Data project.
 - Collected, analyzed, and visualized metadata from the Texas Conference on Digital Libraries proceedings.
-
----
 
 ### Processing the Wright Chalfant Morrow Papers
 
@@ -29,15 +25,11 @@ I edit Wikipedia articles in my spare time.
 
 [Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
 
----
-
 ## Writing
 
 Morgan, A. (2019). [The Philadelphia riots of 1844: Republican Catholicism and Irish Catholic apologetics.](https://www.jstor.org/stable/10.5325/pennhistory.86.1.0086?seq=1) *Pennsylvania History: A Journal of Mid-Atlantic Studies, 86*(1), 86-102. doi:10.5325/pennhistory.86.1.0086
 
 Morgan, A. (2019, August 14). [Uncurrent events: The Pujo Committee.](https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/) *Inside FRASER Blog.* https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/
-
----
 
 ## Conference Presentations
 
