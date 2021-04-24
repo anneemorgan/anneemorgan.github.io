@@ -25,16 +25,6 @@ I edit Wikipedia articles in my spare time.
 
 [Finding aid](http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html)
 
-## Writing
-
-Morgan, A. (2019). [The Philadelphia riots of 1844: Republican Catholicism and Irish Catholic apologetics.](https://www.jstor.org/stable/10.5325/pennhistory.86.1.0086?seq=1) *Pennsylvania History: A Journal of Mid-Atlantic Studies, 86*(1), 86-102. doi:10.5325/pennhistory.86.1.0086
-
-Morgan, A. (2019, August 14). [Uncurrent events: The Pujo Committee.](https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/) *Inside FRASER Blog.* https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/
-
-## Conference Presentations
-
-Morgan, A. (2019). Modernizing migrants: Truman’s Commission on Migratory Labor and an ‘American standard of living.’ Missouri Conference on History, Kansas City, MO, United States.
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
