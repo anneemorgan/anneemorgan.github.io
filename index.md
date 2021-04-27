@@ -20,6 +20,8 @@ I edit Wikipedia articles in my spare time.
 - In collaboration with team members, developed practical recommendations for Texas Digital Library members undertaking a Collections as Data project.
 - Collected, analyzed, and visualized metadata from the Texas Conference on Digital Libraries proceedings.
 
+[Visualizations](https://voyant-tools.org/?corpus=2b4dc67bad2be9f7fa88d64a1a709e4f)
+
 ### Processing the Wright Chalfant Morrow Papers
 
 - Processed Wright Chalfant Morrow's personal papers with a partner at the Texas State Library & Archives Commission.
