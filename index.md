@@ -13,6 +13,8 @@ I edit Wikipedia articles in my spare time.
 - Digitized and archived personnel records at the University of Texas Institute for Geophysics.
 - Created workflows for management of personnel records in Box.
 
+[Poster](./Morgan_CapstonePoster.pdf)
+
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
 - In collaboration with team members, developed practical recommendations for Texas Digital Library members undertaking a Collections as Data project.
