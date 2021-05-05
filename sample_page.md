@@ -1,31 +1,20 @@
-## This can be your internal website page / project page
+### Documenting Records Management at the Institute for Geophysics
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Digitized and archived personnel records at the University of Texas Institute for Geophysics.
+- Created workflows for management of personnel records in Box.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+<a href="/pdf/Morgan_CapstonePoster.pdf" target="_blank">Poster</a>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+- In collaboration with team members, developed practical recommendations for Texas Digital Library members undertaking a Collections as Data project.
+- Collected, analyzed, and visualized metadata from the Texas Conference on Digital Libraries proceedings.
 
-### 2. Assess assumptions on which statistical inference will be based
+<a href="https://voyant-tools.org/?corpus=2b4dc67bad2be9f7fa88d64a1a709e4f" target="_blank">Visualizations</a>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### Processing the Wright Chalfant Morrow Papers
 
-### 3. Support the selection of appropriate statistical tools and techniques
+- Processed Wright Chalfant Morrow's personal papers with a partner at the Texas State Library & Archives Commission.
+- Wrote finding aid for the Morrow papers and marked it up in XML.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="http://legacy.lib.utexas.edu/taro/tslac/90058/tsl-90058.html" target="_blank">Finding aid</a>
