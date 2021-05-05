@@ -6,7 +6,7 @@ I have a Bachelor of Arts in History from Truman State University and I am pursu
 
 I edit Wikipedia articles in my spare time.
 
-## [Projects](sample_page.md)
+## [Projects](projects.md)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
