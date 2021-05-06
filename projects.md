@@ -3,7 +3,7 @@
 - Digitized and archived personnel records at the University of Texas Institute for Geophysics.
 - Created workflows for management of personnel records in Box.
 
-<a href="/pdf/Morgan_CapstonePoster.pdf" target="_blank">Poster</a>
+<a href="/pdf/Morgan_CapstonePoster.pdf" target="_blank">Postert</a>
 
 ### Collections as Data in Texas Digital Library Repositories: Practical Recommendations for Use
 
