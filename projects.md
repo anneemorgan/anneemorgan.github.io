@@ -6,6 +6,9 @@
 ### Wikipedia Editing
 
 - Participating in peer production of encyclopedia articles
-- Member of WikiProject Civil Rights Movement, WikiProject Geology, and WikiProject Women
+- Contributing to science-related WikiProjects: 
+  - [WikiProject Biology](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biology)
+  - [WikiProject Geology](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Geology)
+  - [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
 
 
