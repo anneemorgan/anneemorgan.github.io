@@ -1,6 +1,6 @@
 ### Research Data Management Librarian Academy (RDLMA)
 
-- Participating in the [RDLMA](https://rdmla.github.io/), a free online professional development program for librarians
+- Participating in the [RDMLA](https://rdmla.github.io/), a free online professional development program for librarians
 - Improving ability to collaborate with researchers and apply research data management best practices
 
 ### Wikipedia Editing
