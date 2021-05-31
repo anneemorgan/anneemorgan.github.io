@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/anneemorgan/" target="_blank">GitHub</a> *
   <a href="https://www.linkedin.com/in/anne-elizabeth-morgan/" target="_blank">LinkedIn</a> *
   <a href="/pdf/UpdatedCVAEM.pdf" target="_blank">CV</a>
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
