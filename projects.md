@@ -6,9 +6,8 @@
 ### Wikipedia Editing
 
 - Participating in peer production of encyclopedia articles
-- Contributing to science-related WikiProjects: 
-  - [WikiProject Biology](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biology)
-  - [WikiProject Geology](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Geology)
+- Contributing to:
+  - [WikiProject Libraries](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Libraries)
   - [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
 
 
