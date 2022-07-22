@@ -1,4 +1,10 @@
-I've been thinking about how important it is to deliberately align library collection development policies with the tenets of evidence-based medicine. 
+---
+layout: post
+title: "Integrating EBM with collection development"
+date: 2022-07-22
+---
+
+I've been thinking about how important it is to deliberately align medical library collection development policies and practices with the tenets of evidence-based medicine. 
 
 The CREW weeding manual outlines a series of criteria, abbreviated as "MUSTIE," for weeding: misleading, ugly, superseded, trivial, irrelevant, elsewhere. "Superseded" and "irrelevant" are key here.
 
