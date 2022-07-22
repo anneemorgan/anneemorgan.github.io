@@ -4,7 +4,7 @@ title: "Integrating EBM with collection development"
 date: 2022-07-22
 ---
 
-I've been thinking about how important it is to deliberately align medical library collection development policies and practices with the tenets of evidence-based medicine (EBM). In *Evidence-Based Medicine: How to Practice and Teach EBM*, Straus, Glasziou, Richardson, and Haynes describe how to find "current best evidence" (p. 35). They advise: "Treat traditional textbooks as if they were long past their 'best before' date" (p. 36). These print books can be thought of as "decomposing garbage" (p. 36), susceptible to "rot" (p. 37). Ultimately, these print books are "dangerous waste," not even fit to be recycled (p. 39). 
+I've been thinking about how important it is to deliberately align medical library collection development policies and practices with the tenets of evidence-based medicine (EBM). In *Evidence-Based Medicine: How to Practice and Teach EBM*, Straus, Glasziou, Richardson, and Haynes describe how to find "current best evidence" (p. 35). The authors advise: "Treat traditional textbooks as if they were long past their 'best before' date" (p. 36). These print books can be thought of as "decomposing garbage" (p. 36), susceptible to "rot" (p. 37). Ultimately, they're "dangerous waste," not even fit to be recycled (p. 39). 
 
 The [CREW weeding manual](https://www.tsl.texas.gov/sites/default/files/public/tslac/ld/ld/pubs/crew/crewmethod12.pdf) outlines a series of criteria, "MUSTIE," for weeding: misleading, ugly, superseded, trivial, irrelevant, elsewhere. Misleading, superseded, and irrelevant are key here.
 
