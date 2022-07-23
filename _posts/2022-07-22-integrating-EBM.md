@@ -15,9 +15,9 @@ In my conversations with other librarians, it seems like weeding in medical libr
 
 *Information still useful*
 
-Old medical texts can contain outdated medical information: for example, the statement that "alcohol is not a carcinogen." This doesn't reflect the current scientific consensus. It troubles me to think that students could read something in a print textbook that has real implications for patient care and is also dangerously wrong.
+Old medical texts can contain outdated medical information. It troubles me to think that students could read something in a print textbook that has real implications for patient care and is also dangerously wrong.
 
-There are some potentially serious consequences if a medical library retains old books: students and faculty becoming misinformed; negative effects on grades and overall scholarly success; damage to the library's reputation.
+So there are potentially very serious consequences if a medical library retains old books: students and faculty becoming misinformed; negative effects on grades and overall scholarly success; damage to the library's reputation.
 
 *Historical value*
 
