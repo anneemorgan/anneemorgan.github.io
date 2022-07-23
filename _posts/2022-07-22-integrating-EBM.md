@@ -15,16 +15,16 @@ In my conversations with other librarians, it seems like weeding in medical libr
 
 *Information still useful*
 
-Old medical texts can contain outdated medical information: for example, the statement that "alcohol is not a carcinogen." This doesn't reflect the current scientific consensus.
+Old medical texts can contain outdated medical information: for example, the statement that "alcohol is not a carcinogen." This doesn't reflect the current scientific consensus. It troubles me to think that students could read something in a print textbook that has real implications for patient care and is also dangerously wrong.
 
-There are potentially serious consequences if a medical library retains old books, including: students and faculty becoming misinformed; negative effects on grades and overall scholarly success; damage to the library's reputation.
+There are some potentially serious consequences if a medical library retains old books: students and faculty becoming misinformed; negative effects on grades and overall scholarly success; damage to the library's reputation.
 
 *Historical value*
 
 Medical libraries aren't archives or historical societies. 
-The purpose of a given medical library needs to be articulated in order to clarify why information needs to be up-to-date and accurate. Is the purpose to support historical research or current medical education? Who are the library's main users? Most likely, the answer will be medical students and faculty. If this is the case, the collection will need to be tailored to meet their information needs.
+The purpose of a given medical library needs to be articulated in order to clarify why information needs to be up-to-date and accurate. Is the purpose to support historical research or current medical education? Who are the library's main users? Most likely, the answer will be medical students and faculty. If this is the case, the collection will need to be tailored to meet their information needs. 
 
-A medical library's broader commitment to EBM could serve as a compelling reason to undertake extensive weeding of its print collection.
+Since I'm relatively new to medical librarianship (just over a year in the field), I haven't always been sure what the best way is to explain why weeding is a good thing. A medical library's broader commitment to EBM could serve as a compelling reason to undertake extensive weeding of its print collection.
 
 <p align="center">References</p>
 
