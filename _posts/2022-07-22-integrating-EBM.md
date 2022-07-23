@@ -22,7 +22,7 @@ There are potentially serious consequences if a medical library retains old book
 *Historical value*
 
 Medical libraries aren't archives or historical societies. 
-The purpose of medical libraries needs to be articulated in order to clarify why information needs to be up-to-date and accurate. Is the purpose to support historical research or current medical education? Who are the library's main users? Most likely, the answer will be medical students and faculty. If this is the case, the collection will need to be tailored to meet their information needs.
+The purpose of a given medical library needs to be articulated in order to clarify why information needs to be up-to-date and accurate. Is the purpose to support historical research or current medical education? Who are the library's main users? Most likely, the answer will be medical students and faculty. If this is the case, the collection will need to be tailored to meet their information needs.
 
 A medical library's broader commitment to EBM could serve as a compelling reason to undertake extensive weeding of its print collection.
 
