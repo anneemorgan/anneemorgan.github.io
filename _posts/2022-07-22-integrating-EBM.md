@@ -8,7 +8,7 @@ I've been thinking about how important it is to deliberately align medical libra
 
 How can this movement away from print be reflected in a collection development policy? My impression is that **weeding** is particularly important from an EBM perspective. The Texas State Library and Archives Commission's [*CREW : A Weeding Manual for Modern Libraries*](https://www.tsl.texas.gov/sites/default/files/public/tslac/ld/ld/pubs/crew/crewmethod12.pdf) outlines criteria for weeding: misleading, ugly, superseded, trivial, irrelevant, elsewhere (MUSTIE). Misleading, superseded, and irrelevant are key here.
 
-In my conversations with other librarians, it seems like weeding in medical libraries isn't taking place nearly as much as it should. **That's a lot of rot in the stacks.** A few arguments I've encountered in favor of retaining old library materials:
+In my conversations with other librarians, it seems like weeding in medical libraries isn't taking place nearly as much as it should. **That's a lot of rot in the stacks.** A few arguments I've encountered in favor of retaining old print books:
 
 1. The information in the books is still useful
 2. The books are of historical value
