@@ -26,5 +26,6 @@ The purpose of medical libraries needs to be articulated in order to clarify why
 
 A medical library's broader commitment to EBM could serve as a compelling reason to undertake extensive weeding of its print collection.
 
-References
+<p align="center">References</p>
+
 Straus, S. E., Haynes, R. B., Richardson, W. S., & Glasziou, P. (2019). *Evidence-based medicine : how to practice and teach EBM* (Fifth edition.). Elsevier.
