@@ -1,1 +1,1 @@
-This folder contains pdfs, including my CVs.
+This folder contains pdfs, including my CV.
