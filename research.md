@@ -17,13 +17,13 @@ Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digit
 
 #### Unpublished
 
-Morgan, A. (2019). *Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm* [[Unpublished manuscript]](./pdf/MorganSeniorSeminarPaperDraft1.pdf).
+Morgan, A. (2019). *Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm* [Unpublished manuscript]. [[pdf]](./pdf/MorganSeniorSeminarPaperDraft1.pdf)
 
 ### Conference presentations
 
 Morgan, A. (2019). *Modernizing migrants: Truman’s Commission on Migratory Labor and an
-‘American Standard of Living’* [[Conference session]](./pdf/MorganMOConference.pdf). Missouri Conference on History, Kansas City,
-MO, United States.
+‘American Standard of Living’* [Conference session]. Missouri Conference on History, Kansas City,
+MO, United States. [[pdf]](./pdf/MorganMOConference.pdf)
 
 Morgan, A., Roig, K., and Tuck, K. (2021). *Collections as Data: Visualizing TCDL proceedings* [Poster
 presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
