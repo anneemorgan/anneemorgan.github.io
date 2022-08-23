@@ -16,7 +16,7 @@ Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digit
 #### Conference presentations
 
 Morgan, A. (2019). [*Modernizing migrants: Truman’s Commission on Migratory Labor and an
-‘American Standard of Living’*](./pdf/MorganMOConference) [Conference session]. Missouri Conference on History, Kansas City,
+‘American Standard of Living’*](./MorganMOConference) [Conference session]. Missouri Conference on History, Kansas City,
 MO, United States.
 
 Morgan, A., Roig, K., and Tuck, K. (2021). *Collections as Data: Visualizing TCDL proceedings* [Poster
