@@ -24,4 +24,4 @@ presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
 
 #### Unpublished
 
-Morgan, A. (2019). *Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm.* [Unpublished manuscript].
+Morgan, A. (2019). [*Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm*](./pdf/MorganSeniorSeminarPaperDraft1.pdf) [Unpublished manuscript].
