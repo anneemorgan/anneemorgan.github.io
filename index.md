@@ -10,7 +10,7 @@ I edit Wikipedia articles in my spare time.
 
 ## [Projects](projects.md)
 
-## [Writing](writing.md)
+## [Research](research.md)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
