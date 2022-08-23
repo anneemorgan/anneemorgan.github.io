@@ -15,10 +15,6 @@ Morgan, A. (2019, August 14). Uncurrent events: The Pujo Committee. *Inside FRAS
 
 Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digital Library Repositories: Practical recommendations for use. *TDL DSpace Repository*. [https://hdl.handle.net/2249.1/156533](https://hdl.handle.net/2249.1/156533)
 
-#### Unpublished
-
-Morgan, A. (2019). *Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm* [Unpublished manuscript]. [[pdf]](./pdf/MorganSeniorSeminarPaperDraft1.pdf)
-
 ### Conference presentations
 
 Morgan, A. (2019). *Modernizing migrants: Truman’s Commission on Migratory Labor and an
@@ -27,3 +23,7 @@ MO, United States. [[pdf]](./pdf/MorganMOConference.pdf)
 
 Morgan, A., Roig, K., and Tuck, K. (2021). *Collections as Data: Visualizing TCDL proceedings* [Poster
 presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
+
+### Unpublished
+
+Morgan, A. (2019). *Tropical disease, neo-Lamarckism, and the early twentieth century campaigns against hookworm* [Unpublished manuscript]. [[pdf]](./pdf/MorganSeniorSeminarPaperDraft1.pdf)
