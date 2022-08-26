@@ -26,4 +26,4 @@ presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
 
 ### Unpublished
 
-Morgan, A. (2019). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm* [Unpublished manuscript].
+Morgan, A. (2019). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in the U.S. South and Puerto Rico* [Unpublished manuscript].
