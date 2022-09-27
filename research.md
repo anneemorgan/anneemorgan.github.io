@@ -26,4 +26,6 @@ presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
 
 ### Unpublished
 
+Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Manuscript in preparation]. New York, NY: Bloomsbury. 
+
 Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in the U.S. South and Puerto Rico* [Unpublished manuscript].
