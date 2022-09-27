@@ -15,6 +15,12 @@ Morgan, A. (2019, August 14). Uncurrent events: The Pujo Committee. *Inside FRAS
 
 Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digital Library Repositories: Practical recommendations for use. *TDL DSpace Repository*. [https://hdl.handle.net/2249.1/156533](https://hdl.handle.net/2249.1/156533)
 
+### Unpublished manuscripts
+
+Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Manuscript in preparation]. New York, NY: Bloomsbury. 
+
+Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in the U.S. South and Puerto Rico* [Unpublished manuscript].
+
 ### Conference presentations
 
 Morgan, A. (2019). *Modernizing migrants: Truman’s Commission on Migratory Labor and an
@@ -23,9 +29,3 @@ MO, United States. [(pdf)](./pdf/MorganMOConference.pdf)
 
 Morgan, A., Roig, K., and Tuck, K. (2021). *Collections as Data: Visualizing TCDL proceedings* [Poster
 presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
-
-### Unpublished
-
-Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Manuscript in preparation]. New York, NY: Bloomsbury. 
-
-Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in the U.S. South and Puerto Rico* [Unpublished manuscript].
