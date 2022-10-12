@@ -25,7 +25,7 @@ Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth 
 
 Morgan, A. (2019). *Modernizing migrants: Truman’s Commission on Migratory Labor and an
 ‘American standard of living’* [Conference session]. Missouri Conference on History, Kansas City,
-MO, United States. [(pdf)](./pdf/MorganMOConference.pdf)
+MO, United States. [pdf](./pdf/MorganMOConference.pdf)
 
 Morgan, A., Roig, K., and Tuck, K. (2021). *Collections as Data: Visualizing TCDL proceedings* [Poster
 presentation]. Texas Conference on Digital Libraries, Austin, TX, United States.
