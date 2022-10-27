@@ -17,7 +17,7 @@ Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digit
 
 ### Unpublished manuscripts
 
-Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Manuscript in preparation]. New York, NY: Bloomsbury. 
+Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Unpublished manuscript]. New York, NY: Bloomsbury. 
 
 Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in Puerto Rico and the U.S. South* [Unpublished manuscript].
 
