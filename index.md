@@ -6,8 +6,6 @@ I have a Bachelor of Arts in History from Truman State University and a Master o
 
 I edit Wikipedia articles in my spare time.
 
-## [Blog](https://anneemorgan.github.io/blog/)
-
 ## [Projects](projects.md)
 
 ## [Research](research.md)
