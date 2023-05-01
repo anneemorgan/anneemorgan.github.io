@@ -4,8 +4,6 @@ I have a Bachelor of Arts in History from Truman State University and a Master o
 
 **Research is like detective work.** Each new lead builds on the accumulated knowledge that came before it. As a librarian, my goal is to help this process of search and discovery take place.
 
-I edit Wikipedia articles in my spare time.
-
 ## [Projects](projects.md)
 
 ## [Research](research.md)
