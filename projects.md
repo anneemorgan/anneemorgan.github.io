@@ -10,6 +10,5 @@
 - Participating in peer production of encyclopedia articles
 - Contributing to:
   - [WikiProject Libraries](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Libraries)
-  - [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
 
 
