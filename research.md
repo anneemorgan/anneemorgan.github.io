@@ -15,12 +15,6 @@ Morgan, A. (2019, August 14). Uncurrent events: The Pujo Committee. *Inside FRAS
 
 Blay, K. R., Morgan, A., and Tuck, K. (2020). Collections as Data in Texas Digital Library Repositories: Practical recommendations for use. *TDL DSpace Repository*. [https://hdl.handle.net/2249.1/156533](https://hdl.handle.net/2249.1/156533)
 
-### Unpublished manuscripts
-
-Morgan, A. and Fetzner, S. (n.d.). Politics, law and military. In J. McDonald and T. Wandel (Eds.), *A cultural history of historiography in the modern age, 1920-present* [Unpublished manuscript]. New York, NY: Bloomsbury. 
-
-Morgan, A. (2022). *White degeneration, neo-Lamarckism, and the early twentieth century campaigns against hookworm in Puerto Rico and the U.S. South* [Unpublished manuscript].
-
 ### Conference presentations
 
 Morgan, A. (2019). *Modernizing migrants: Truman’s Commission on Migratory Labor and an
