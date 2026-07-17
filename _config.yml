@@ -1,4 +1,6 @@
 title: Anne Morgan
+logo: "/images/logo.png?raw=true"
+<i>Monica of Hippo, Benozzo Gozzoli</i>
 description: >
   <b>Archivist</b>
   <br>
@@ -22,8 +24,6 @@ description: >
       https://orcid.org/0000-0003-2468-493X
       </a>
   </br>
-logo: "/images/logo.png?raw=true"
-  <i>Monica of Hippo, Benozzo Gozzoli</i>
   
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
