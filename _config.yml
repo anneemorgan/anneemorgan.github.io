@@ -1,6 +1,5 @@
 title: Anne Morgan
 logo: "/images/logo.png?raw=true"
-  <p><i>Monica of Hippo, Benozzo Gozzoli</i></p>
 description: >
   <b>Archivist</b>
   <br>
@@ -22,7 +21,7 @@ description: >
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0003-2468-493X
-      </a>
+    </a>
   
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
